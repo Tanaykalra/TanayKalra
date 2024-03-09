@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanay Kalra</h1>
 <h3 align="center">A passionate Data Analyst</h3>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/13671653-Data-Analysis/attachments/5277169?mode=media">
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+  - 👯 I’m looking to collaborate on **Data Analytics Projects**
 
 - 📫 How to reach me **tanaykalra07@gmail.com**
 
