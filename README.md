@@ -15,9 +15,9 @@
 
 
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+- **Open to teaming up on Data Analytics projects!** 👯
 
-- 📫 How to reach me **tanaykalra07@gmail.com**
+- 📫  Questions or collaborations? Drop me a line at **tanaykalra07@gmail.com**"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
