@@ -3,7 +3,7 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.
 
-![logo](https://github.com/Tanaykalra/TanayKalra/blob/main/Pink%20Watercolor%20Elegant%20Mother%E2%80%99s%20Day%20Sale%20Banner.png)
+![logo](https://github.com/Tanaykalra/TanayKalra/blob/main/Pink%20Watercolor%20Elegant%20Mother%E2%80%99s%20Day%20Sale%20Banner%20(2).png)
 
 
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/datamaverick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/datamaverick/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/datamaverick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="datamaverick" height="30" width="40" /></a>
 <a href="https://instagram.com/tanaykalra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanaykalra" height="30" width="40" /></a>
 </p>
 
