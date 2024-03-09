@@ -1,8 +1,16 @@
-![logo](https://github.com/Tanaykalra/TanayKalra/blob/main/3171d680-1d98-11ea-9bfd-51ba32490a41.png)
-<h1 align="center">Hi 👋, I'm Tanay Kalra</h1>
+<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
+
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.
+
+![logo](https://github.com/Tanaykalra/TanayKalra/blob/main/Pink%20Watercolor%20Elegant%20Mother%E2%80%99s%20Day%20Sale%20Banner.png)
+
+
+
+
 <h3 align="center">Unveiling patterns in data to illuminate the path forward💡✨ </h3>
 <img align="right" alt="coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
-<img align="top" alt="coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif">
+
 
 
 
